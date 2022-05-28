@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/movie-list-application-in-react/static/css/main.e2ccc726.css",
+    "main.js": "/movie-list-application-in-react/static/js/main.7744afd3.js",
+    "service-worker.js": "/movie-list-application-in-react/service-worker.js",
+    "index.html": "/movie-list-application-in-react/index.html",
+    "main.e2ccc726.css.map": "/movie-list-application-in-react/static/css/main.e2ccc726.css.map",
+    "main.7744afd3.js.map": "/movie-list-application-in-react/static/js/main.7744afd3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2ccc726.css",
+    "static/js/main.7744afd3.js"
+  ]
+}
